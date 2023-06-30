@@ -1,0 +1,7 @@
+POST http://localhost:5000/weathers
+Content-Type: application/json
+
+{
+    "cord": {},
+    "data": {}
+}
